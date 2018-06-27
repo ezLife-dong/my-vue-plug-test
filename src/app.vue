@@ -5,6 +5,7 @@
     <div class="msg-wrapper">
         <span>hello!</span>
         <span class="account">{{data.name}}</span>
+        <span></span>
     </div>
 </template>
 <script>
